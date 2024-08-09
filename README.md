@@ -1,5 +1,5 @@
 
-Cloudflare DNS Updater Your Dynamic IP 
+Cloudflare DNS Auto Updater Your Dynamic IP 
 =================================
 
 This Python script automatically updates the DNS A record for a specific domain on Cloudflare with the current public IPv4 address of your machine. It is particularly useful for dynamically updating DNS records in scenarios where your IP address frequently changes, such as with residential ISPs.
